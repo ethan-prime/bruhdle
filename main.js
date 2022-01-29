@@ -1,3 +1,5 @@
+//HOSTED AT https://bruhdle.herokuapp.com/ -- NOT COMPATIBLE ON MOBILE FOR SOME REASON, WORKS ON DESKTOP
+
 const gameboard = document.getElementById('gameboard');
 
 class Cell {
